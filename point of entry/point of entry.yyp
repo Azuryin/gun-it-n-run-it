@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"ooh cool",
+  "%Name":"point of entry",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,7 +32,7 @@
   "MetaData":{
     "IDEVersion":"2024.6.2.162",
   },
-  "name":"ooh cool",
+  "name":"point of entry",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
