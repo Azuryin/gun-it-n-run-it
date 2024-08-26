@@ -16,5 +16,10 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"o_glock_18_bullet","order":1,"path":"objects/o_glock_18_bullet/o_glock_18_bullet.yy",},
+    {"name":"o_player","order":2,"path":"objects/o_player/o_player.yy",},
+    {"name":"s_glock_18_bullet","order":1,"path":"sprites/s_glock_18_bullet/s_glock_18_bullet.yy",},
+    {"name":"s_glock_18_reloading","order":2,"path":"sprites/s_glock_18_reloading/s_glock_18_reloading.yy",},
+  ],
 }
