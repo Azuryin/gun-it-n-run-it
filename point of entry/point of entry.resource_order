@@ -17,7 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"sigma_player","order":1,"path":"objects/sigma_player/sigma_player.yy",},
-    {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"o_super_shorty","order":1,"path":"objects/o_super_shorty/o_super_shorty.yy",},
+    {"name":"s_super_shorty_reload","order":2,"path":"sprites/s_super_shorty_reload/s_super_shorty_reload.yy",},
+    {"name":"s_super_shorty","order":3,"path":"sprites/s_super_shorty/s_super_shorty.yy",},
   ],
 }
