@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,18 +34,15 @@
   },
   "name":"point of entry",
   "resources":[
-    {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
-    {"id":{"name":"o_super_shorty","path":"objects/o_super_shorty/o_super_shorty.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
-    {"id":{"name":"s_super_shorty_reload","path":"sprites/s_super_shorty_reload/s_super_shorty_reload.yy",},},
-    {"id":{"name":"s_super_shorty","path":"sprites/s_super_shorty/s_super_shorty.yy",},},
+    {"id":{"name":"o_glock_18_bullet","path":"objects/o_glock_18_bullet/o_glock_18_bullet.yy",},},
+    {"id":{"name":"o_glock_18","path":"objects/o_glock_18/o_glock_18.yy",},},
+    {"id":{"name":"s_glock_18_bullet","path":"sprites/s_glock_18_bullet/s_glock_18_bullet.yy",},},
+    {"id":{"name":"s_glock_18_reloading","path":"sprites/s_glock_18_reloading/s_glock_18_reloading.yy",},},
+    {"id":{"name":"s_glock_18","path":"sprites/s_glock_18/s_glock_18.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-  ],
+  "RoomOrderNodes":[],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},

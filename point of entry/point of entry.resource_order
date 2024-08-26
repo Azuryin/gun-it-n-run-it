@@ -17,8 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"o_super_shorty","order":1,"path":"objects/o_super_shorty/o_super_shorty.yy",},
-    {"name":"s_super_shorty_reload","order":2,"path":"sprites/s_super_shorty_reload/s_super_shorty_reload.yy",},
-    {"name":"s_super_shorty","order":3,"path":"sprites/s_super_shorty/s_super_shorty.yy",},
+    {"name":"o_glock_18_bullet","order":1,"path":"objects/o_glock_18_bullet/o_glock_18_bullet.yy",},
+    {"name":"s_glock_18_bullet","order":1,"path":"sprites/s_glock_18_bullet/s_glock_18_bullet.yy",},
+    {"name":"s_glock_18_reloading","order":2,"path":"sprites/s_glock_18_reloading/s_glock_18_reloading.yy",},
   ],
 }
