@@ -34,7 +34,6 @@
   },
   "name":"point of entry",
   "resources":[
-    {"id":{"name":"what i added","path":"notes/what i added/what i added.yy",},},
     {"id":{"name":"o_glock_18_bullet","path":"objects/o_glock_18_bullet/o_glock_18_bullet.yy",},},
     {"id":{"name":"o_glock_18","path":"objects/o_glock_18/o_glock_18.yy",},},
     {"id":{"name":"s_glock_18_bullet","path":"sprites/s_glock_18_bullet/s_glock_18_bullet.yy",},},
