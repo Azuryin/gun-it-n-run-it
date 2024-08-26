@@ -37,17 +37,13 @@
     {"id":{"name":"what i added","path":"notes/what i added/what i added.yy",},},
     {"id":{"name":"o_glock_18_bullet","path":"objects/o_glock_18_bullet/o_glock_18_bullet.yy",},},
     {"id":{"name":"o_glock_18","path":"objects/o_glock_18/o_glock_18.yy",},},
-    {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"s_glock_18_bullet","path":"sprites/s_glock_18_bullet/s_glock_18_bullet.yy",},},
     {"id":{"name":"s_glock_18_reloading","path":"sprites/s_glock_18_reloading/s_glock_18_reloading.yy",},},
     {"id":{"name":"s_glock_18","path":"sprites/s_glock_18/s_glock_18.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-  ],
+  "RoomOrderNodes":[],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
