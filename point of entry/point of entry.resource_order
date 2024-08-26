@@ -16,5 +16,8 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"o_sawed_off","order":1,"path":"objects/o_sawed_off/o_sawed_off.yy",},
+    {"name":"s_sawed_off_reload","order":1,"path":"sprites/s_sawed_off_reload/s_sawed_off_reload.yy",},
+  ],
 }
